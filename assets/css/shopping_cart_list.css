@@ -87,6 +87,7 @@ p.submit_btn{
     margin: 10px 2px;
     padding: 2px;
     border-style: solid;
+	text-align:center;
     border-color: black;
     border-width: 1px;
     background-color: white;
