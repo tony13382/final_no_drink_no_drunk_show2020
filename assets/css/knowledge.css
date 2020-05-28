@@ -18,12 +18,12 @@
     padding: 0px 20px;
 }
 .ballon_block{
-    width: 25px;
+    width: 50px;
     margin: 10px 5px;
     float: left;
 }
 .ballon_title,.ballon_title:hover{
-    font-size: 25px;
+    font-size: 45px;
     color: white;
     text-decoration: none;
     font-weight: bolder;
@@ -42,14 +42,14 @@
 .art_title{
     border-bottom-color: #2A2A2A;
     border-bottom-style: solid;
-    font-size: 30px;
+    font-size: 45px;
 }
 .art_text{
-    font-size: 15px;
+    font-size: 25px;
     margin-top: 15px;
 }
 .art_ol{
-    font-size: 15px;
+    font-size: 25px;
     margin-left: 15px;
 }
 .art_readmore_btn{

@@ -19,8 +19,6 @@
     perspective: 1000px;
     margin: 5px;
     float: left;
-    border-radius: 20px;
-    overflow: hidden;
 }
 
 .flip-card-inner {
@@ -65,7 +63,6 @@
     border-style: solid;
     border-color: #2A2A2A;
     border-width: 1px;
-    border-radius: 20px;
 }
 .people_info_word{
     margin: 15px 10px;;
