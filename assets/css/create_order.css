@@ -20,6 +20,19 @@ h3.title_word{
     margin-bottom: 20px;
     margin-left: 80px;
 }
+#card_area{
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top-style: solid;
+    border-top-color: lightgray;
+}
+#atm_area{
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top-style: solid;
+    border-top-color: lightgray;
+    display: none
+}
 .radio_img{
     width: 150px;
     height: 100px;
@@ -44,11 +57,13 @@ h3.title_word{
 .
 .input_row{
     width: 100%;
+    display: flex;
 }
 .input_title_word{
     float: left;
-    margin-right: 10px;
-    margin-left: 70px;
+    width: 230px;
+    text-align: right;
+    padding-right: 10px;
 }
 .input_sq{
     width: 400px;
@@ -58,12 +73,22 @@ h3.title_word{
     padding: 5px;
 }
 .input_sq:focus{
-    width: 400px;
+    background-color: #EDEEF0;
+}
+.input_sq_m_n{
+    width: 192.5px;
     height: 30px;
     border-color: black;
-    margin-top: 1px;
     padding: 5px;
+    margin: 2px 10px 0px 0px;
+}
+.input_sq_m:focus{
     background-color: #EDEEF0;
+}
+.little_w{
+    display: inline-block;
+    font-size: 20px;
+    margin: 0px 5px 0px 5px;
 }
 .submit_row{
     text-align: right;
