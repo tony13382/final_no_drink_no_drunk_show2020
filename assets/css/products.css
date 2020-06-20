@@ -65,9 +65,8 @@ div.select_bar_search_area{
 }
 .block_name{
     color: white;
-    font-size: 35px;
+    font-size: 20px;
     margin: 10px;
-    float: left
 }
 .block_product{
     width: 33.33%;
@@ -89,8 +88,8 @@ div.select_bar_search_area{
     background-size: cover;
     border: none;
     margin-top: 20px;
-    width: 40px;
-    height: 35px;
+    width: 25px;
+    height: 20px;
     cursor: pointer;
     color: transparent;
 }
@@ -100,8 +99,8 @@ div.select_bar_search_area{
     background-size: cover;
     border: none;
     margin-top: 20px;
-    width: 40px;
-    height: 35px;
+    width: 25px;
+    height: 20px;
     cursor: pointer;
     color: transparent;
 }
@@ -115,6 +114,7 @@ form.block_form{
 }
 .favroite_title{
   color: white;
+  display: block;
 }
 .favroite_info,.favroite_info:hover{
   color: white;
