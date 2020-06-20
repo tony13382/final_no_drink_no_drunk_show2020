@@ -94,6 +94,17 @@ div.select_bar_search_area{
     cursor: pointer;
     color: transparent;
 }
+.block_love_R{
+    background-image: url(../images/page_element/love-R.png);
+    background-color: rgba(0,0,0,0);
+    background-size: cover;
+    border: none;
+    margin-top: 20px;
+    width: 40px;
+    height: 35px;
+    cursor: pointer;
+    color: transparent;
+}
 form.block_form{
     display:inline-block
 }
@@ -101,4 +112,25 @@ form.block_form{
     width: 100%;
     display: table;
     text-align: center;
+}
+.favroite_title{
+  color: white;
+}
+.favroite_info,.favroite_info:hover{
+  color: white;
+  text-decoration: none;
+}
+.favroite_toinfo_title{
+  display:inline; margin-right:-10px;
+}
+.favroite_toinfo_block{
+  display: table;
+  text-align: right;
+  width: 100%;
+}
+.block_bigrow{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:100%;
+    overflow: hidden;
 }
