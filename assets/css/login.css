@@ -57,7 +57,7 @@
     float: left;
 }
 
-input[type=text],input[type=password]{
+input[type=mail],input[type=password]{
     width: 500px;
     margin-top: 10px;
 }
